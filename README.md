@@ -27,4 +27,4 @@ Nel notebook è presente un'approfondita analisi esplorativa che analizza l'impa
 
 ## 🚀 Come visualizzare il codice
 Puoi esplorare tutto il codice e l'analisi cliccando sul file `.ipynb` presente in questo repository. Grazie all'integrazione con Google Colab, puoi anche eseguire il codice direttamente nel tuo browser cliccando sull'apposito badge "Open in Colab" all'interno del file!
-[👉 Clicca qui per leggere il report completo in PDF](Report_Analisi_Produttività.pdf)
+[👉 Clicca qui per leggere il report completo in PDF](Report_Analisi_Produttivita.pdf)
